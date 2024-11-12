@@ -2,7 +2,7 @@
 ## 3.3.4 Gitの使い方
 ### example.md
 
-こんにちは。私の名前は○○です。
+こんにちは。私の名前はdaisukeです。
 hello world.
 hello git.
 おはようございます。
